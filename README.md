@@ -1,2 +1,1 @@
-- WordiiiDev
-- Im A Web Developer And Python Programmer.
+Some Random Developer
