@@ -2,7 +2,7 @@
 
 **Senior Front-End Developer**
 
-## 🚀 𝔼𝕩𝕡𝕖𝕣𝕥𝕚𝕤𝕖
+## 🚀 Expertise
 
 - **Front-End**: React, View, Javascript, Typescript, Angularjs, Tailwindcss
 - **Backend**: Nodejs, Python, Django, Nextjs
@@ -26,4 +26,4 @@
 ## 🏆 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=WordiiiDev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![(https://github-readme-stats.vercel.app/api/top-langs/?username=WordiiiDev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WordiiiDev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
